@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+
+.table_header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(40deg, #2096ff, #05ffa3) !important;
+  margin: 100px 0 30px 0;
+}
